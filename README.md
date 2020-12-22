@@ -1,10 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Justwant.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <a href="https://www.instagram.com/juzt_666/">
-  <img align="left" alt="Justwant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="J1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198329957385/">
-  <img align="left" alt="Justwant's Steam" width="22px" src="https://github.com/MaRauder111/MaRauder111/blob/main/img/steam.svg" />
+  <img align="left" alt="J1" width="22px" src="https://github.com/MaRauder111/MaRauder111/blob/main/img/steam.svg" />
+</a>
+
+<a href="https://twitter.com/Quynch3">
+  <img align="left" alt="J1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
@@ -68,3 +72,8 @@ C++    1 hr 28 mins    ███████████████████
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=critcamkc0maw43tyei2s6ox9&cover_image=true&theme=default)](https://open.spotify.com/)
 
 <br />
+
+
+[![Instagram](https://img.shields.io/badge/J1--red.svg?style=social&logo=Instagram)](https://www.instagram.com/juzt_666)
+[![Steam](https://img.shields.io/badge/J1--red.svg?style=social&logo=Steam)](https://steamcommunity.com/profiles/76561198329957385/)
+[![Twitter](https://img.shields.io/badge/J1--red.svg?style=social&logo=Twitter)](https://twitter.com/Quynch3)
