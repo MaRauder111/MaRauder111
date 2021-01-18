@@ -41,9 +41,10 @@
 <br />
 
 📊 **This Week I Spent My Time On :**
-<!--START_SECTION:waka-->
+
 ```text
-C++    1 hr 28 mins    ████████████████████████▓   99.33 % 
+C++    1 hr    ██████████▓   50.33 %
+JS     1 hr    ██████████▓   49 %
 ```
 <br />
 
@@ -55,10 +56,10 @@ C++    1 hr 28 mins    ███████████████████
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... [Mediapipe_hand_tracking](https://google.github.io/mediapipe/solutions/hands.html)
 - 🤔 I’m looking for help with implementing ... Mediapipe hand gesture
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Mail](njustwant92@icloud.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play DOTA 2 also. Add me on steam also. 😄
+- 💬 Ask me about ... Anything
+- 📫 How to reach me ... [Mail](njustwant92@icloud.com)
+- 😄 Pronouns ... He/Him
+- ⚡ Fun fact ... I play DOTA 2 also. Add me on steam also. 😄
 
 <br />
 
