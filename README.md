@@ -67,13 +67,14 @@ JS     1 hr    ██████████▓   49 %
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaRauder111&show_icons=true&theme=gotham" alt="MaRauder111" />
 
 <br />
-```
+
+
 **Listening on Spotify :**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=critcamkc0maw43tyei2s6ox9&cover_image=true&theme=default)](https://open.spotify.com/)
 
-<br: />
-```
+<br />
+
 
 [![Instagram](https://img.shields.io/badge/J1--red.svg?style=social&logo=Instagram)](https://www.instagram.com/juzt_666)
 [![Steam](https://img.shields.io/badge/J1--red.svg?style=social&logo=Steam)](https://steamcommunity.com/profiles/76561198329957385/)
