@@ -52,9 +52,9 @@ JS     1 hr    ██████████▓   49 %
 
 **Working and personal information :**
 
-- 🔭 I’m currently working on ... [Mediapipe](https://github.com/google/mediapipe)
+- 🔭 I’m currently working on ... Something
 - 🌱 I’m currently learning ... Something
-- 👯 I’m looking to collaborate on ... [Mediapipe_hand_tracking](https://google.github.io/mediapipe/solutions/hands.html)
+- 👯 I’m looking to collaborate on ... Something
 - 🤔 I’m looking for help with implementing ... Mediapipe hand gesture
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... [Mail](njustwant92@icloud.com)
